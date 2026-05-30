@@ -1,27 +1,42 @@
 :root {
-  --vp-c-brand: #3d3d3d;
+  --vp-c-brand: #666;
+  --vp-c-brand-1: #666;
+  --vp-c-brand-2: #888;
 }
 
 .VPContent {
   background: #ffffff;
 }
 
-table {
+.VPSidebar {
+  background: #f5f5f5;
+}
+
+.VPDoc h1 {
+  border-bottom: 2px solid #999;
+  padding-bottom: 10px;
+}
+
+.VPDoc h2 {
+  background: #e5e5e5;
+  padding: 8px;
+  border-left: 5px solid #888;
+}
+
+.VPDoc table {
   width: 100%;
   border-collapse: collapse;
 }
 
-table th {
-  background: #d8d8d8;
+.VPDoc table th {
+  background: #dcdcdc;
   border: 1px solid #999;
 }
 
-table td {
+.VPDoc table td {
   border: 1px solid #999;
 }
 
-h2 {
-  background: #efefef;
-  padding: 8px;
-  border-left: 5px solid #888;
+img {
+  image-rendering: pixelated;
 }
