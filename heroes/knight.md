@@ -1,8 +1,7 @@
 ---
-
 title: Knight
 description: Guía completa del Knight en TaskBarHero
-----------------------------------------------------
+---
 
 # 🛡️ Knight
 
@@ -10,20 +9,16 @@ description: Guía completa del Knight en TaskBarHero
 
 > Clase defensiva especializada en supervivencia, mitigación de daño y progreso seguro.
 
----
-
 ## Información General
 
-| Característica | Valor  |
-| -------------- | ------ |
-| Clase          | Knight |
-| Rol            | Tanque |
-| Dificultad     | Fácil  |
-| Supervivencia  | ⭐⭐⭐⭐⭐  |
-| Daño           | ⭐⭐⭐☆☆  |
-| Velocidad      | ⭐⭐☆☆☆  |
-
----
+| Característica | Valor |
+|---------------|--------|
+| Clase | Knight |
+| Rol | Tanque |
+| Dificultad | Fácil |
+| Supervivencia | ⭐⭐⭐⭐⭐ |
+| Daño | ⭐⭐⭐☆☆ |
+| Velocidad | ⭐⭐☆☆☆ |
 
 ## Descripción
 
@@ -31,19 +26,15 @@ El Knight destaca por su enorme capacidad de supervivencia. Es una de las mejore
 
 Su principal función es absorber daño y mantenerse con vida durante el mayor tiempo posible.
 
----
-
 ## Estadísticas
 
 | Atributo | Nivel |
-| -------- | ----- |
-| HP       | ⭐⭐⭐⭐⭐ |
-| ATK      | ⭐⭐⭐☆☆ |
-| DEF      | ⭐⭐⭐⭐⭐ |
-| CRIT     | ⭐⭐☆☆☆ |
-| SPD      | ⭐⭐☆☆☆ |
-
----
+|-----------|--------|
+| HP | ⭐⭐⭐⭐⭐ |
+| ATK | ⭐⭐⭐☆☆ |
+| DEF | ⭐⭐⭐⭐⭐ |
+| CRIT | ⭐⭐☆☆☆ |
+| SPD | ⭐⭐☆☆☆ |
 
 ## Habilidades
 
@@ -59,8 +50,6 @@ Atrae a los enemigos y concentra los ataques sobre el Knight.
 
 Incrementa la defensa base y mejora la supervivencia general.
 
----
-
 ## Prioridad de Atributos
 
 1. HP
@@ -69,83 +58,47 @@ Incrementa la defensa base y mejora la supervivencia general.
 4. Velocidad
 5. Ataque
 
----
-
 ## Build Early Game
 
 ### Prioridad
 
-* HP
-* DEF
-* Supervivencia
-
-### Objetos recomendados
-
-* Armadura Pesada
-* Escudo Reforzado
-* Casco Defensivo
-
----
+- HP
+- DEF
+- Supervivencia
 
 ## Build Mid Game
 
 ### Prioridad
 
-* HP %
-* DEF %
-* Mitigación de Daño
-
-### Objetos recomendados
-
-* Equipo Rare
-* Equipo Legendary
-
----
+- HP %
+- DEF %
+- Mitigación de Daño
 
 ## Build End Game
 
 ### Prioridad
 
-* HP %
-* DEF %
-* Reducción de Daño
-* Resistencia
-
-### Objetos recomendados
-
-* Legendary
-* Immortal
-* Arcana
-
----
+- HP %
+- DEF %
+- Reducción de Daño
+- Resistencia
 
 ## Pros
 
-✅ Muy resistente
-
-✅ Fácil de usar
-
-✅ Excelente para principiantes
-
-✅ Gran estabilidad en progresión AFK
-
----
+- Muy resistente
+- Fácil de usar
+- Excelente para principiantes
+- Gran estabilidad en progresión AFK
 
 ## Contras
 
-❌ Menor daño que otras clases
-
-❌ Limpieza de enemigos más lenta
-
-❌ Depende del equipamiento para escalar
-
----
+- Menor daño que otras clases
+- Limpieza de enemigos más lenta
+- Depende del equipamiento para escalar
 
 ## Galería
 
 ![Knight](/images/knight.gif)
-
----
 
 ## Notas
 
