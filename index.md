@@ -1,11 +1,23 @@
----
-layout: home
-hero:
-  name: Taskbar Hero
-  text: Wiki en Español
-  tagline: Toda la información sobre héroes, habilidades y evoluciones.
-  actions:
-    - theme: brand
-      text: Ver Héroes
-      link: /heroes/knight
----
+# TaskBarHero Wiki Español
+
+La wiki más completa de TaskBarHero en español.
+
+## Clases
+
+- Knight
+- Ranger
+- Sorcerer
+- Priest
+- Hunter
+- Slayer
+
+## Enlaces rápidos
+
+- Guías
+- Builds
+- Objetos
+- Tier List
+
+## Noticias
+
+Bienvenido a la comunidad de TaskBarHero.
