@@ -37,7 +37,7 @@ jobs:
         run: npm add -D vitepress vue
         
       - name: Build with VitePress
-        run: npx vitepress build
+        run: npx vitepress build .
         
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
