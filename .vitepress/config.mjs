@@ -4,8 +4,6 @@ export default defineConfig({
   title: 'TaskBarHero Wiki ES',
   description: 'Wiki en Español de TaskBarHero',
 
-  lang: 'es-ES',
-
   themeConfig: {
     nav: [
       { text: 'Inicio', link: '/' },
