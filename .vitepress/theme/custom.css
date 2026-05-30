@@ -1,1 +1,27 @@
+:root {
+  --vp-c-brand: #3d3d3d;
+}
 
+.VPContent {
+  background: #ffffff;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table th {
+  background: #d8d8d8;
+  border: 1px solid #999;
+}
+
+table td {
+  border: 1px solid #999;
+}
+
+h2 {
+  background: #efefef;
+  padding: 8px;
+  border-left: 5px solid #888;
+}
