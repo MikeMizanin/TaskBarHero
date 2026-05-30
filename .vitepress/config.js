@@ -1,20 +1,27 @@
-export default {
-  base: '/TaskBarHero/', // <--- AGREGÁ ESTA LÍNEA EXACTAMENTE ACÁ
-  title: "Taskbar Hero Wiki",
-  description: "Base de datos en español",
+import { defineConfig } from 'vitepress'
+
+export default defineConfig({
+  title: 'TaskBarHero Wiki ES',
+  description: 'La Wiki en Español de TaskBarHero',
+
   themeConfig: {
     nav: [
       { text: 'Inicio', link: '/' },
       { text: 'Héroes', link: '/heroes/knight' }
     ],
+
     sidebar: [
       {
-        text: 'Guía de Héroes',
+        text: 'Héroes',
         items: [
-          { text: 'Knight (Caballero)', link: '/heroes/knight' },
-          { text: 'Mage (Mago)', link: '/heroes/mage' }
+          { text: 'Knight', link: '/heroes/knight' },
+          { text: 'Ranger', link: '/heroes/ranger' },
+          { text: 'Sorcerer', link: '/heroes/sorcerer' },
+          { text: 'Priest', link: '/heroes/priest' },
+          { text: 'Hunter', link: '/heroes/hunter' },
+          { text: 'Slayer', link: '/heroes/slayer' }
         ]
       }
     ]
   }
-}
+})
